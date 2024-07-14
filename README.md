@@ -1,4 +1,4 @@
 # Hell_Factory_POC
- Just a proof of concept for an upcoming hell themed factory building game.
+ proof of concept for a minecart mechanic for a hell themed factory building game.
 
  Made in Unity
